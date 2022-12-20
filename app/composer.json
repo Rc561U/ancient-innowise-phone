@@ -1,0 +1,17 @@
+{
+    "name": "alter/phone",
+    "autoload": {
+        "psr-4": {
+            "AlterPhone\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Anton Ramancou"
+        }
+    ],
+
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
